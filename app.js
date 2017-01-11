@@ -1,3 +1,3 @@
 function log(){
-console.log("practice");}
+console.log("practice editing");}
 log();
